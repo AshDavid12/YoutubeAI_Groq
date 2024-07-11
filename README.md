@@ -17,7 +17,7 @@ install json
 ```
 
 ### Run
-Type in terminal: `streamlit run youtube_app_code.py`. 
+Type in terminal: `streamlit run youcode.py`. 
 Should pop up a web window with the app. 
 Paste a url in the box and click Run!.  
  
